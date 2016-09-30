@@ -91,7 +91,8 @@ echo "<h1 class='style8' align=center>Wel come to Online Exam</h1>";
           </tr>
         <tr>
           <td colspan=2 align=center class="errors">
-		  <input name="submit" type="submit" id="submit" value="Login">		  </td>
+		  <input name="submit" type="submit" id="submit" value="Login">	</td>
+		<td align=right class="errors"><a href="forget.php">forget password?</a></td>
         </tr>
         <tr>
           <td colspan="2" bgcolor="blue"><div align="center"><span class="style4">New User ? <a href="signup.php">Signup Free</a></span></div></td>
